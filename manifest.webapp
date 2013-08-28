@@ -1,0 +1,16 @@
+{
+  "version": "0.0.1a",
+  "name": "GaleriaFotos",
+  "description": "Galeria de Fotos",
+  "launch_path": "/index.html",
+  "icons": {
+    "32": "/images/icon-32.png",
+    "64": "/images/icon-64.png",
+    "128": "/images/icon-128.png"
+  },
+  "developer": {
+    "name": "Daniel Mendoza",
+    "url": "https://github.com/dmbz"
+  },
+  "default_locale": "es"
+}
